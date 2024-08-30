@@ -2,7 +2,7 @@ alumnos = [
     {
     "nombre": "Emmanuel",
      "apellido": "Yapura",
-     "dni": 39772997,
+     "dni": 12342997,
      "fecha de nacimiento": "03-11-96",
      "tutor": "Maria",
      "notas": [8,7,6,9,8,10],
